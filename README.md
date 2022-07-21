@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pghgal317
 - 👀 I’m interested in learning and travel
-- 🌱 I’m currently learning Python, VB, HTML/CSS, JAVA
+- 🌱 I’m currently learning Python, HTML/CSS, JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
